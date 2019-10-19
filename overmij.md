@@ -1,6 +1,6 @@
 ---
 layout: default
-title:hallo
+title: hallo
 ---
 
 ## {{page.title}}
